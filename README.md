@@ -1,3 +1,5 @@
 Machine Learing with R
 Group Assignmnet - ASSESSMENT 2 for MAST7220
 Risvan Alangadan (RA725), Kisan Nallusamy Dhanabackiam (KN316)
+
+Data source link - https://www.kaggle.com/datasets/kirbysasuke/retail-sales?resource=download&SSORegistrationToken=CfDJ8NaUH7gUrDtFgwt-2-W4oQDH0Udofkd0g1P6lSIywTEN1-Tw4rQCi09QtnSXA1Ceo92Bh4vaM1IWJmfK2DolipyDFRimZnicn2yrCxWJUZ-f0XtiQQ4Z37gzYKRH7wocneAIGdX20eCLykFdJs3hgjk9cizO_9qC-PCJc2akF2-yMFHrYEEimwwmLWrAF2OyA1XYXVOrkg2CUVLmADb0HaAVLIqiJ3LPo3JmnPmc8axicN8-1obli6P3wICtfDQEODXpjdS7m-ia9PoCYE20-3cpWejsgI79PBmlDHbzxwfAfKg3nEBgeR2EoQPXvULwwX1Ye0TyfvUmTrSUcGR6n_yceovY&DisplayName=Risvan
